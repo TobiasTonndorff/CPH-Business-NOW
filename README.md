@@ -1,5 +1,5 @@
 we want to explore different possibilities of creating a "ticket-like" system like Service-Now for handeling tickets for different departments in a big
-company. the system is going to include a web interface for the users to create tickets and a backend for the employees to handle the tickets.
+company. the system is going to include a web interface for the users to create tickets and a backend for storing and updating the states of current tickets and store user information for optimizing work flow.
 
 ## Features
 
